@@ -19,3 +19,6 @@
     transform: translateX(-50%) translateY(-50%);
     color: #fff;
 }
+#banner h2{
+    font-size: 28px;
+}
