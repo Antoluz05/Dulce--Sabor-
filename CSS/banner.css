@@ -12,3 +12,10 @@
     margin-bottom: -200px;
 
 }
+#banner .container{
+    position: absolute;
+    top: 19%;
+    left: 59%;
+    transform: translateX(-50%) translateY(-50%);
+    color: #fff;
+}
