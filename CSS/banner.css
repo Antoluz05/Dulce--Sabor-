@@ -61,3 +61,10 @@
         margin-top: -75px;
     }
 }
+.btn__header-register{
+    position: fixed;
+    padding: 25px 80px;
+    margin: 20px;
+    background: #fff;
+
+}
