@@ -75,3 +75,7 @@ header{ /*haciendo encabezado de pagina*/
     background:   #F5B7B1;
 
 }
+.text__front{
+    background-size: cover;
+    background-position: center;
+}
