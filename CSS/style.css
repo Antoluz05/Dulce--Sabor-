@@ -38,3 +38,8 @@ header{ /*haciendo encabezado de pagina*/
     left: 0%;
     z-index: 100;
 }   
+.parent2{ /*definiendo parent de los laterales*/
+    display: flex;
+    background-color: white;
+    justify-content: center;
+}
