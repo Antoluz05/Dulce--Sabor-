@@ -66,3 +66,12 @@ header{ /*haciendo encabezado de pagina*/
 .text__father:hover .text{
     transform: rotateY(180deg);
 }
+.text{
+    width: 600px;
+    height: 220px;
+    position: relative;
+    transform-style: preserve-3d;
+    transition: all 1000ms;
+    background:   #F5B7B1;
+
+}
