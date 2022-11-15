@@ -47,3 +47,14 @@ header{ /*haciendo encabezado de pagina*/
     margin-top: -100px;
     margin-bottom: -100px;
 }
+.container__text{ 
+    max-width: 1200px;
+    margin: auto;
+    margin-top: 100px;
+    perspective: 1000px;
+    display: flex;
+    justify-content: center;
+    background: white;
+    
+    
+}
