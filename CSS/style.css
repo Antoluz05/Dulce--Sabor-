@@ -106,3 +106,13 @@ header{ /*haciendo encabezado de pagina*/
     transform: translateZ(60px);
     transform: translateZ(60px);
 }
+.bg{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0%;
+    left: 0%; 
+    border: 1px solid  #F5B7B1;
+    border-radius: 40px;
+    background: rgba(255,255,255,0.1);
+}
