@@ -94,3 +94,15 @@ header{ /*haciendo encabezado de pagina*/
     border: 1px solid   #F5B7B1;
     border-radius: 40px;
 }
+.body__text_front{
+    width: 100%;
+    height: 100%;
+    text-align: centeer;
+    padding: 40px 20px 40px 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    transform: translateZ(60px);
+    transform: translateZ(60px);
+}
