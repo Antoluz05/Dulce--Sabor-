@@ -88,3 +88,9 @@ header{ /*haciendo encabezado de pagina*/
     backface-visibility: hidden;
     transform-style: preserve-3d;
 }
+.text__back{ 
+    transform: rotateY(180deg);
+    background: white;
+    border: 1px solid   #F5B7B1;
+    border-radius: 40px;
+}
