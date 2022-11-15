@@ -116,3 +116,9 @@ header{ /*haciendo encabezado de pagina*/
     border-radius: 40px;
     background: rgba(255,255,255,0.1);
 }
+.body__text_back{
+    padding-top: 66px;
+    text-align: center;
+    transform: translateZ(60px);
+    font-size: 25px;
+}
