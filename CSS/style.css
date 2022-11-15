@@ -63,3 +63,6 @@ header{ /*haciendo encabezado de pagina*/
     perspective: 1000px;
     background:  white;
 }
+.text__father:hover .text{
+    transform: rotateY(180deg);
+}
