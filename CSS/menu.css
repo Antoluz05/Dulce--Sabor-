@@ -40,3 +40,7 @@ header label{
         float: right;
         display: flex;
     }
+    header label{
+        display: none;
+    }
+}
