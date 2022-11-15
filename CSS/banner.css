@@ -38,3 +38,7 @@
     #banner h2{
         font-size: 40px;
     }
+    #banner a{
+        margin-top: -25px;       
+    }
+}
