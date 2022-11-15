@@ -18,3 +18,14 @@ h1{
     position: absolute;
     padding: 5px;
 }
+.buscar input{ /*barra de buscar*/
+    width: 240px;
+    height:20px;
+    padding: 0 20px;
+    font-size: 18px;
+    color: pink;
+    outline: none;
+    border: 1px solid silver;
+    border-radius: 30px;
+
+}
