@@ -47,3 +47,8 @@
         height: 300px;
         overflow: hidden;
     }
+    #banner img{
+        height: auto;
+        margin-top: -16px;
+    }
+}
