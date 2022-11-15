@@ -131,3 +131,13 @@ header{ /*haciendo encabezado de pagina*/
     margin-top: 20px;
     font-size: 28px;
 }
+.body__text_back input{
+    padding: 10px 40px;
+    margin-top: 30px;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    color: white;
+    background:   #F5B7B1;
+    border-radius: 10px;
+}
