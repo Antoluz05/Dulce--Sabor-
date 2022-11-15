@@ -127,3 +127,7 @@ header{ /*haciendo encabezado de pagina*/
     text-align: center;
     transform: translateZ(60px);
 }
+.body__text_back1 p{
+    margin-top: 20px;
+    font-size: 28px;
+}
