@@ -141,3 +141,6 @@ header{ /*haciendo encabezado de pagina*/
     background:   #F5B7B1;
     border-radius: 10px;
 }
+.social a {
+    text-decoration: none;
+}
