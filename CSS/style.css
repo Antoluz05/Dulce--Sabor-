@@ -43,3 +43,7 @@ header{ /*haciendo encabezado de pagina*/
     background-color: white;
     justify-content: center;
 }
+.footer{
+    margin-top: -100px;
+    margin-bottom: -100px;
+}
