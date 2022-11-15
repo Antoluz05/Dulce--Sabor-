@@ -122,3 +122,8 @@ header{ /*haciendo encabezado de pagina*/
     transform: translateZ(60px);
     font-size: 25px;
 }
+.body__text_back1{
+    padding: 40px;
+    text-align: center;
+    transform: translateZ(60px);
+}
