@@ -14,3 +14,7 @@ h1{
     width: 99%;
     color: white;
 }
+.buscar{ /*barra de buscar*/
+    position: absolute;
+    padding: 5px;
+}
