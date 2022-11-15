@@ -58,3 +58,8 @@ header{ /*haciendo encabezado de pagina*/
     
     
 }
+.text__father{
+    margin: 20px;
+    perspective: 1000px;
+    background:  white;
+}
