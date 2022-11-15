@@ -57,3 +57,7 @@
         height: 300px;
         overflow: hidden;
     }
+    #banner img{
+        margin-top: -75px;
+    }
+}
