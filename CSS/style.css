@@ -7,3 +7,10 @@
     font-family: 'Times New Roman', Times, serif; /*fondo de color */
     background-color: white;
 }
+h1{
+    position: absolute; /*titulo principal dulce sabor*/
+    text-align: center;
+    height: 0%;
+    width: 99%;
+    color: white;
+}
