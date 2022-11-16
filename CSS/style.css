@@ -5,6 +5,8 @@
 
 }
 body{
+    width: auto;
+
 .parent{
     font-family: 'Times New Roman', Times, serif; /*fondo de color */
     background-color: white;
