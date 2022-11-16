@@ -9,34 +9,5 @@
     
 </head>
 <body>
-    <h4>Dulce Sabores</h4>
-             <form class="formulario" action="inicio.html.html" name="enviame" id="supform"> 
-                 <input type="text" placeholder="ingresa tu nombre" id="nombre" onclick="resetbtn()"> 
-                 <input type="text" placeholder="ingresa tu Email" id="Email" onclick="resetbtn()">
-                 <input type="password" placeholder="ingresa tu contraseña" id="contra" onclick="resetbtn()">
-
-                 <p>Estoy de acuerdo con <a href="#" terminos y condiciones></a> </p>
-                 <input type="button" id="registrarme" value="registrarme" onmouseover="movimiento()"> 
-                </form> 
-    </form>
     
-    <script> 
-        var posicion =0;
-        function movimiento(){ 
-        const nombre =document.forms ['enviame']['nombre'].value; 
-        const Email  =document.forms ['enviame']['Email'].value;
-        const contra =document.forms ['enviame']['contra'].value; 
-        if((nombre == "" && contra == "" && Email == "" ) && posicion==0){ izquierda(); 
-        posicion=1; return false; } if((nombre == "" && contra == "" && Email == "" ) && posicion==1){ derecha(); 
-        posicion=2; return false; } if((nombre == "" && contra == "" && Email == "" ) && posicion==2){ izquierda();
-         posicion=1; return false; } else{ return false;
-          } } function izquierda (){ const button = document.getElementById('registrarme');
-           button.style.transform='translatex(60%)';
-           } function derecha (){ const button = document.getElementById('registrarme'); 
-           button.style.transform='translatex(-60%)';
-            } function vuelve (){ const button = document.getElementById('registrarme');
-             button.style.transform='translatex(60%)';
-             } 
-    </script>
 </body>
-</html>
