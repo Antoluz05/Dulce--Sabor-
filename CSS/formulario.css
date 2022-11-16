@@ -54,3 +54,6 @@ h4{
     box-shadow: 1px 1px 2px #000;
     color: #F5B7B1;
 }
+.formulario button:hover{
+    background-color: #F5B7B1
+}
