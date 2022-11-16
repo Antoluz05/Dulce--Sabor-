@@ -6,3 +6,4 @@ function movimiento(){
     h1.textContent = input;
      div.appendChild(h4); 
      div.classList.add('rotacion');
+}
