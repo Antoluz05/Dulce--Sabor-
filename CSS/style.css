@@ -7,6 +7,7 @@
 body{
     width: auto;
 }
+body :hover{
 
 .parent{
     font-family: 'Times New Roman', Times, serif; /*fondo de color */
