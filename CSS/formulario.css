@@ -40,3 +40,12 @@ body{
     color: black;
     text-decoration: underline;
 }
+.form-register .botons{
+    width: 100%;
+    background: peachpuff;
+    border: none;
+    padding: 12px;
+    color: black;
+    margin: 16px 0;
+    font-size: 16px;
+}
