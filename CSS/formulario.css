@@ -4,3 +4,10 @@
     box-sizing: border-box;
     font-family: 'Times New Roman', Times, serif;
 }
+body{
+    height: 100vh;
+    background-color: #F5B7B1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
