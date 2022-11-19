@@ -49,3 +49,13 @@ body{
     height: 40px;
     margin-left: 30%;
 }
+.form-register .botons{
+    width: 100%;
+    background: #ffffff;
+    border: none;
+    padding: 12px;
+    color: #000;
+    margin: 16px 0;
+    font-size: 16px;
+}
+
