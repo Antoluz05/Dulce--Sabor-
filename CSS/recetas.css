@@ -70,4 +70,8 @@ body{
     transform: translate(-50%, 200%);
 
 }
+.imagen:hover .overlay{
+    height: 100%;
+    cursor: pointer;
+}
 
