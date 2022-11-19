@@ -15,3 +15,7 @@ body{
     font-weight: 300;
     color: #F5B7B1;
 }
+.linea{
+    border-top: 5px solid #F5B7B1 ;
+    margin-bottom: 20px;
+}
