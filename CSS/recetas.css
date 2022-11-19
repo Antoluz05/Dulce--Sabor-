@@ -19,3 +19,11 @@ body{
     border-top: 5px solid #F5B7B1 ;
     margin-bottom: 20px;
 }
+.contenedor-imagenes{
+    display: flex;
+    width: 85%;
+    margin: auto;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    border-radius: 3px;
+}
