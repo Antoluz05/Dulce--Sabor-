@@ -4,14 +4,6 @@
     box-sizing: border-box;
 
 }
-body{
-    width: auto;
-}
-body :hover{
-    -webkit-transform: rotate(360deg);
-    transition: 2s ease-in-out;
-}
-
 
 .parent{
     font-family: 'Times New Roman', Times, serif; /*fondo de color */
