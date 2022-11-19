@@ -39,3 +39,8 @@ body{
     color:white;
     text-decoration: none;
 }
+.form-register a:hover{
+    color: white;
+    text-decoration: underline;
+
+}
