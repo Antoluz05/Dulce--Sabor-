@@ -9,3 +9,9 @@ body{
  .Galeria{
     font-family: 'open' sans-serif;
 }
+.Galeria h2{
+    text-align: center;
+    margin: 20px 0 15px 0;
+    font-weight: 300;
+    color: #F5B7B1;
+}
