@@ -72,3 +72,7 @@ button{
     right: 15px;
     bottom: 10px;
 }
+.button-add:hover {
+    background-color: #4CAF50; /* Green */
+    color: white;
+}
