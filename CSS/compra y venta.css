@@ -10,3 +10,8 @@ button{
     padding: 10px 20px;
 
 }
+.page-nave{
+    background-color: #F5B7B1;
+    border: 1px solid black;
+    position: relative;
+}
