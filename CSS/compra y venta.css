@@ -29,3 +29,7 @@ button{
     bottom: 15px;
 
 }
+.button-checkout {
+    background-color: #008CBA; /* Blue*/
+    color: white;
+}
