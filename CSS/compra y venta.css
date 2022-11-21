@@ -39,3 +39,10 @@ button{
     justify-content: space-evenly;
     border: 1px solid pink;
 }
+.product-container{
+    margin: 15px;
+    padding: 2px 16px;
+    position: relative;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.1);
+    background-color: white;
+}
