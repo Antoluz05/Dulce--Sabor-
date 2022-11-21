@@ -7,3 +7,4 @@ function add(product, price) {
     document.getElementById("checkout").innerHTML = `Pagar $${total}`
 }
 function pay (){
+    window.alert(products.join(", \n" ));
