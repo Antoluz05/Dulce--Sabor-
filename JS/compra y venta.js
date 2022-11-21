@@ -8,3 +8,4 @@ function add(product, price) {
 }
 function pay (){
     window.alert(products.join(", \n" ));
+}
