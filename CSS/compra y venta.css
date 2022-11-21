@@ -33,3 +33,9 @@ button{
     background-color: #008CBA; /* Blue*/
     color: white;
 }
+.page-content{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    border: 1px solid pink;
+}
